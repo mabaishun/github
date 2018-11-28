@@ -1,0 +1,720 @@
+####################################GOOSE协议数据###################################
+APPID:           0001
+Length:          145
+gocbRef          :TAG:  80  LEN:  1a DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 24 67 63 62 30 31
+timeAllowedtoLive:TAG:  81  LEN:  03 DATE: 00 9c 40
+datSet           :TAG:  82  LEN:  18 DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 4f 53 45 31
+goID             :TAG:  83  LEN:  0b DATE: 46 36 35 30 5f 47 4f 4f 53 45 31
+eventTimestamp   :TAG:  84  LEN:  08 DATE: 38 6e bb f3 42 17 28 0a
+StateNumber      :TAG:  85  LEN:  01 DATE: 01
+SequenceNumber   :TAG:  86  LEN:  01 DATE: 0a
+test             :TAG:  87  LEN:  01 DATE: 00
+confRev          :TAG:  88  LEN:  01 DATE: 01
+ndsCom           :TAG:  89  LEN:  01 DATE: 00
+numDatSetEntries :TAG:  8a  LEN:  01 DATE: 08
+DATA:8 items
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+##############################################GOOSE数据解析完成#######################################
+####################################GOOSE协议数据###################################
+APPID:           0001
+Length:          145
+gocbRef          :TAG:  80  LEN:  1a DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 24 67 63 62 30 31
+timeAllowedtoLive:TAG:  81  LEN:  03 DATE: 00 9c 40
+datSet           :TAG:  82  LEN:  18 DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 4f 53 45 31
+goID             :TAG:  83  LEN:  0b DATE: 46 36 35 30 5f 47 4f 4f 53 45 31
+eventTimestamp   :TAG:  84  LEN:  08 DATE: 38 6e bb f3 42 17 28 0a
+StateNumber      :TAG:  85  LEN:  01 DATE: 01
+SequenceNumber   :TAG:  86  LEN:  01 DATE: 0b
+test             :TAG:  87  LEN:  01 DATE: 00
+confRev          :TAG:  88  LEN:  01 DATE: 01
+ndsCom           :TAG:  89  LEN:  01 DATE: 00
+numDatSetEntries :TAG:  8a  LEN:  01 DATE: 08
+DATA:8 items
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+##############################################GOOSE数据解析完成#######################################
+####################################GOOSE协议数据###################################
+APPID:           0001
+Length:          145
+gocbRef          :TAG:  80  LEN:  1a DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 24 67 63 62 30 31
+timeAllowedtoLive:TAG:  81  LEN:  03 DATE: 00 9c 40
+datSet           :TAG:  82  LEN:  18 DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 4f 53 45 31
+goID             :TAG:  83  LEN:  0b DATE: 46 36 35 30 5f 47 4f 4f 53 45 31
+eventTimestamp   :TAG:  84  LEN:  08 DATE: 38 6e bb f3 42 17 28 0a
+StateNumber      :TAG:  85  LEN:  01 DATE: 01
+SequenceNumber   :TAG:  86  LEN:  01 DATE: 0c
+test             :TAG:  87  LEN:  01 DATE: 00
+confRev          :TAG:  88  LEN:  01 DATE: 01
+ndsCom           :TAG:  89  LEN:  01 DATE: 00
+numDatSetEntries :TAG:  8a  LEN:  01 DATE: 08
+DATA:8 items
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+##############################################GOOSE数据解析完成#######################################
+####################################GOOSE协议数据###################################
+APPID:           0001
+Length:          144
+gocbRef          :TAG:  80  LEN:  1a DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 24 67 63 62 30 31
+timeAllowedtoLive:TAG:  81  LEN:  02 DATE: 03 e8
+datSet           :TAG:  82  LEN:  18 DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 4f 53 45 31
+goID             :TAG:  83  LEN:  0b DATE: 46 36 35 30 5f 47 4f 4f 53 45 31
+eventTimestamp   :TAG:  84  LEN:  08 DATE: 38 6e bc 41 ed 76 ec 0a
+StateNumber      :TAG:  85  LEN:  01 DATE: 01
+SequenceNumber   :TAG:  86  LEN:  01 DATE: 01
+test             :TAG:  87  LEN:  01 DATE: 00
+confRev          :TAG:  88  LEN:  01 DATE: 01
+ndsCom           :TAG:  89  LEN:  01 DATE: 00
+numDatSetEntries :TAG:  8a  LEN:  01 DATE: 08
+DATA:8 items
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+##############################################GOOSE数据解析完成#######################################
+####################################GOOSE协议数据###################################
+APPID:           0001
+Length:          144
+gocbRef          :TAG:  80  LEN:  1a DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 24 67 63 62 30 31
+timeAllowedtoLive:TAG:  81  LEN:  02 DATE: 03 e8
+datSet           :TAG:  82  LEN:  18 DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 4f 53 45 31
+goID             :TAG:  83  LEN:  0b DATE: 46 36 35 30 5f 47 4f 4f 53 45 31
+eventTimestamp   :TAG:  84  LEN:  08 DATE: 38 6e bc 41 ed 76 ec 0a
+StateNumber      :TAG:  85  LEN:  01 DATE: 01
+SequenceNumber   :TAG:  86  LEN:  01 DATE: 02
+test             :TAG:  87  LEN:  01 DATE: 00
+confRev          :TAG:  88  LEN:  01 DATE: 01
+ndsCom           :TAG:  89  LEN:  01 DATE: 00
+numDatSetEntries :TAG:  8a  LEN:  01 DATE: 08
+DATA:8 items
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+##############################################GOOSE数据解析完成#######################################
+####################################GOOSE协议数据###################################
+APPID:           0001
+Length:          144
+gocbRef          :TAG:  80  LEN:  1a DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 24 67 63 62 30 31
+timeAllowedtoLive:TAG:  81  LEN:  02 DATE: 03 e8
+datSet           :TAG:  82  LEN:  18 DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 4f 53 45 31
+goID             :TAG:  83  LEN:  0b DATE: 46 36 35 30 5f 47 4f 4f 53 45 31
+eventTimestamp   :TAG:  84  LEN:  08 DATE: 38 6e bc 41 ed 76 ec 0a
+StateNumber      :TAG:  85  LEN:  01 DATE: 01
+SequenceNumber   :TAG:  86  LEN:  01 DATE: 03
+test             :TAG:  87  LEN:  01 DATE: 00
+confRev          :TAG:  88  LEN:  01 DATE: 01
+ndsCom           :TAG:  89  LEN:  01 DATE: 00
+numDatSetEntries :TAG:  8a  LEN:  01 DATE: 08
+DATA:8 items
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+##############################################GOOSE数据解析完成#######################################
+####################################GOOSE协议数据###################################
+APPID:           0001
+Length:          144
+gocbRef          :TAG:  80  LEN:  1a DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 24 67 63 62 30 31
+timeAllowedtoLive:TAG:  81  LEN:  02 DATE: 07 d0
+datSet           :TAG:  82  LEN:  18 DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 4f 53 45 31
+goID             :TAG:  83  LEN:  0b DATE: 46 36 35 30 5f 47 4f 4f 53 45 31
+eventTimestamp   :TAG:  84  LEN:  08 DATE: 38 6e bc 41 ed 76 ec 0a
+StateNumber      :TAG:  85  LEN:  01 DATE: 01
+SequenceNumber   :TAG:  86  LEN:  01 DATE: 04
+test             :TAG:  87  LEN:  01 DATE: 00
+confRev          :TAG:  88  LEN:  01 DATE: 01
+ndsCom           :TAG:  89  LEN:  01 DATE: 00
+numDatSetEntries :TAG:  8a  LEN:  01 DATE: 08
+DATA:8 items
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+##############################################GOOSE数据解析完成#######################################
+####################################GOOSE协议数据###################################
+APPID:           0001
+Length:          145
+gocbRef          :TAG:  80  LEN:  1a DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 24 67 63 62 30 31
+timeAllowedtoLive:TAG:  81  LEN:  03 DATE: 00 9c 40
+datSet           :TAG:  82  LEN:  18 DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 4f 53 45 31
+goID             :TAG:  83  LEN:  0b DATE: 46 36 35 30 5f 47 4f 4f 53 45 31
+eventTimestamp   :TAG:  84  LEN:  08 DATE: 38 6e bc 41 ed 76 ec 0a
+StateNumber      :TAG:  85  LEN:  01 DATE: 01
+SequenceNumber   :TAG:  86  LEN:  01 DATE: 05
+test             :TAG:  87  LEN:  01 DATE: 00
+confRev          :TAG:  88  LEN:  01 DATE: 01
+ndsCom           :TAG:  89  LEN:  01 DATE: 00
+numDatSetEntries :TAG:  8a  LEN:  01 DATE: 08
+DATA:8 items
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+##############################################GOOSE数据解析完成#######################################
+####################################GOOSE协议数据###################################
+APPID:           0001
+Length:          145
+gocbRef          :TAG:  80  LEN:  1a DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 24 67 63 62 30 31
+timeAllowedtoLive:TAG:  81  LEN:  03 DATE: 00 9c 40
+datSet           :TAG:  82  LEN:  18 DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 4f 53 45 31
+goID             :TAG:  83  LEN:  0b DATE: 46 36 35 30 5f 47 4f 4f 53 45 31
+eventTimestamp   :TAG:  84  LEN:  08 DATE: 38 6e bb f3 42 17 28 0a
+StateNumber      :TAG:  85  LEN:  01 DATE: 01
+SequenceNumber   :TAG:  86  LEN:  01 DATE: 0a
+test             :TAG:  87  LEN:  01 DATE: 00
+confRev          :TAG:  88  LEN:  01 DATE: 01
+ndsCom           :TAG:  89  LEN:  01 DATE: 00
+numDatSetEntries :TAG:  8a  LEN:  01 DATE: 08
+DATA:8 items
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+##############################################GOOSE数据解析完成#######################################
+####################################GOOSE协议数据###################################
+APPID:           0001
+Length:          145
+gocbRef          :TAG:  80  LEN:  1a DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 24 67 63 62 30 31
+timeAllowedtoLive:TAG:  81  LEN:  03 DATE: 00 9c 40
+datSet           :TAG:  82  LEN:  18 DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 4f 53 45 31
+goID             :TAG:  83  LEN:  0b DATE: 46 36 35 30 5f 47 4f 4f 53 45 31
+eventTimestamp   :TAG:  84  LEN:  08 DATE: 38 6e bb f3 42 17 28 0a
+StateNumber      :TAG:  85  LEN:  01 DATE: 01
+SequenceNumber   :TAG:  86  LEN:  01 DATE: 0b
+test             :TAG:  87  LEN:  01 DATE: 00
+confRev          :TAG:  88  LEN:  01 DATE: 01
+ndsCom           :TAG:  89  LEN:  01 DATE: 00
+numDatSetEntries :TAG:  8a  LEN:  01 DATE: 08
+DATA:8 items
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+##############################################GOOSE数据解析完成#######################################
+####################################GOOSE协议数据###################################
+APPID:           0001
+Length:          145
+gocbRef          :TAG:  80  LEN:  1a DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 24 67 63 62 30 31
+timeAllowedtoLive:TAG:  81  LEN:  03 DATE: 00 9c 40
+datSet           :TAG:  82  LEN:  18 DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 4f 53 45 31
+goID             :TAG:  83  LEN:  0b DATE: 46 36 35 30 5f 47 4f 4f 53 45 31
+eventTimestamp   :TAG:  84  LEN:  08 DATE: 38 6e bb f3 42 17 28 0a
+StateNumber      :TAG:  85  LEN:  01 DATE: 01
+SequenceNumber   :TAG:  86  LEN:  01 DATE: 0c
+test             :TAG:  87  LEN:  01 DATE: 00
+confRev          :TAG:  88  LEN:  01 DATE: 01
+ndsCom           :TAG:  89  LEN:  01 DATE: 00
+numDatSetEntries :TAG:  8a  LEN:  01 DATE: 08
+DATA:8 items
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+##############################################GOOSE数据解析完成#######################################
+####################################GOOSE协议数据###################################
+APPID:           0001
+Length:          144
+gocbRef          :TAG:  80  LEN:  1a DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 24 67 63 62 30 31
+timeAllowedtoLive:TAG:  81  LEN:  02 DATE: 03 e8
+datSet           :TAG:  82  LEN:  18 DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 4f 53 45 31
+goID             :TAG:  83  LEN:  0b DATE: 46 36 35 30 5f 47 4f 4f 53 45 31
+eventTimestamp   :TAG:  84  LEN:  08 DATE: 38 6e bc 41 ed 76 ec 0a
+StateNumber      :TAG:  85  LEN:  01 DATE: 01
+SequenceNumber   :TAG:  86  LEN:  01 DATE: 01
+test             :TAG:  87  LEN:  01 DATE: 00
+confRev          :TAG:  88  LEN:  01 DATE: 01
+ndsCom           :TAG:  89  LEN:  01 DATE: 00
+numDatSetEntries :TAG:  8a  LEN:  01 DATE: 08
+DATA:8 items
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+##############################################GOOSE数据解析完成#######################################
+####################################GOOSE协议数据###################################
+APPID:           0001
+Length:          144
+gocbRef          :TAG:  80  LEN:  1a DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 24 67 63 62 30 31
+timeAllowedtoLive:TAG:  81  LEN:  02 DATE: 03 e8
+datSet           :TAG:  82  LEN:  18 DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 4f 53 45 31
+goID             :TAG:  83  LEN:  0b DATE: 46 36 35 30 5f 47 4f 4f 53 45 31
+eventTimestamp   :TAG:  84  LEN:  08 DATE: 38 6e bc 41 ed 76 ec 0a
+StateNumber      :TAG:  85  LEN:  01 DATE: 01
+SequenceNumber   :TAG:  86  LEN:  01 DATE: 02
+test             :TAG:  87  LEN:  01 DATE: 00
+confRev          :TAG:  88  LEN:  01 DATE: 01
+ndsCom           :TAG:  89  LEN:  01 DATE: 00
+numDatSetEntries :TAG:  8a  LEN:  01 DATE: 08
+DATA:8 items
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+##############################################GOOSE数据解析完成#######################################
+####################################GOOSE协议数据###################################
+APPID:           0001
+Length:          144
+gocbRef          :TAG:  80  LEN:  1a DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 24 67 63 62 30 31
+timeAllowedtoLive:TAG:  81  LEN:  02 DATE: 03 e8
+datSet           :TAG:  82  LEN:  18 DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 4f 53 45 31
+goID             :TAG:  83  LEN:  0b DATE: 46 36 35 30 5f 47 4f 4f 53 45 31
+eventTimestamp   :TAG:  84  LEN:  08 DATE: 38 6e bc 41 ed 76 ec 0a
+StateNumber      :TAG:  85  LEN:  01 DATE: 01
+SequenceNumber   :TAG:  86  LEN:  01 DATE: 03
+test             :TAG:  87  LEN:  01 DATE: 00
+confRev          :TAG:  88  LEN:  01 DATE: 01
+ndsCom           :TAG:  89  LEN:  01 DATE: 00
+numDatSetEntries :TAG:  8a  LEN:  01 DATE: 08
+DATA:8 items
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+##############################################GOOSE数据解析完成#######################################
+####################################GOOSE协议数据###################################
+APPID:           0001
+Length:          144
+gocbRef          :TAG:  80  LEN:  1a DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 24 67 63 62 30 31
+timeAllowedtoLive:TAG:  81  LEN:  02 DATE: 07 d0
+datSet           :TAG:  82  LEN:  18 DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 4f 53 45 31
+goID             :TAG:  83  LEN:  0b DATE: 46 36 35 30 5f 47 4f 4f 53 45 31
+eventTimestamp   :TAG:  84  LEN:  08 DATE: 38 6e bc 41 ed 76 ec 0a
+StateNumber      :TAG:  85  LEN:  01 DATE: 01
+SequenceNumber   :TAG:  86  LEN:  01 DATE: 04
+test             :TAG:  87  LEN:  01 DATE: 00
+confRev          :TAG:  88  LEN:  01 DATE: 01
+ndsCom           :TAG:  89  LEN:  01 DATE: 00
+numDatSetEntries :TAG:  8a  LEN:  01 DATE: 08
+DATA:8 items
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+##############################################GOOSE数据解析完成#######################################
+####################################GOOSE协议数据###################################
+APPID:           0001
+Length:          145
+gocbRef          :TAG:  80  LEN:  1a DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 24 67 63 62 30 31
+timeAllowedtoLive:TAG:  81  LEN:  03 DATE: 00 9c 40
+datSet           :TAG:  82  LEN:  18 DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 4f 53 45 31
+goID             :TAG:  83  LEN:  0b DATE: 46 36 35 30 5f 47 4f 4f 53 45 31
+eventTimestamp   :TAG:  84  LEN:  08 DATE: 38 6e bc 41 ed 76 ec 0a
+StateNumber      :TAG:  85  LEN:  01 DATE: 01
+SequenceNumber   :TAG:  86  LEN:  01 DATE: 05
+test             :TAG:  87  LEN:  01 DATE: 00
+confRev          :TAG:  88  LEN:  01 DATE: 01
+ndsCom           :TAG:  89  LEN:  01 DATE: 00
+numDatSetEntries :TAG:  8a  LEN:  01 DATE: 08
+DATA:8 items
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+##############################################GOOSE数据解析完成#######################################
+####################################GOOSE协议数据###################################
+APPID:           0001
+Length:          145
+gocbRef          :TAG:  80  LEN:  1a DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 24 67 63 62 30 31
+timeAllowedtoLive:TAG:  81  LEN:  03 DATE: 00 9c 40
+datSet           :TAG:  82  LEN:  18 DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 4f 53 45 31
+goID             :TAG:  83  LEN:  0b DATE: 46 36 35 30 5f 47 4f 4f 53 45 31
+eventTimestamp   :TAG:  84  LEN:  08 DATE: 38 6e bb f3 42 17 28 0a
+StateNumber      :TAG:  85  LEN:  01 DATE: 01
+SequenceNumber   :TAG:  86  LEN:  01 DATE: 0a
+test             :TAG:  87  LEN:  01 DATE: 00
+confRev          :TAG:  88  LEN:  01 DATE: 01
+ndsCom           :TAG:  89  LEN:  01 DATE: 00
+numDatSetEntries :TAG:  8a  LEN:  01 DATE: 08
+DATA:8 items
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+##############################################GOOSE数据解析完成#######################################
+####################################GOOSE协议数据###################################
+APPID:           0001
+Length:          145
+gocbRef          :TAG:  80  LEN:  1a DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 24 67 63 62 30 31
+timeAllowedtoLive:TAG:  81  LEN:  03 DATE: 00 9c 40
+datSet           :TAG:  82  LEN:  18 DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 4f 53 45 31
+goID             :TAG:  83  LEN:  0b DATE: 46 36 35 30 5f 47 4f 4f 53 45 31
+eventTimestamp   :TAG:  84  LEN:  08 DATE: 38 6e bb f3 42 17 28 0a
+StateNumber      :TAG:  85  LEN:  01 DATE: 01
+SequenceNumber   :TAG:  86  LEN:  01 DATE: 0b
+test             :TAG:  87  LEN:  01 DATE: 00
+confRev          :TAG:  88  LEN:  01 DATE: 01
+ndsCom           :TAG:  89  LEN:  01 DATE: 00
+numDatSetEntries :TAG:  8a  LEN:  01 DATE: 08
+DATA:8 items
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+##############################################GOOSE数据解析完成#######################################
+####################################GOOSE协议数据###################################
+APPID:           0001
+Length:          145
+gocbRef          :TAG:  80  LEN:  1a DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 24 67 63 62 30 31
+timeAllowedtoLive:TAG:  81  LEN:  03 DATE: 00 9c 40
+datSet           :TAG:  82  LEN:  18 DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 4f 53 45 31
+goID             :TAG:  83  LEN:  0b DATE: 46 36 35 30 5f 47 4f 4f 53 45 31
+eventTimestamp   :TAG:  84  LEN:  08 DATE: 38 6e bb f3 42 17 28 0a
+StateNumber      :TAG:  85  LEN:  01 DATE: 01
+SequenceNumber   :TAG:  86  LEN:  01 DATE: 0c
+test             :TAG:  87  LEN:  01 DATE: 00
+confRev          :TAG:  88  LEN:  01 DATE: 01
+ndsCom           :TAG:  89  LEN:  01 DATE: 00
+numDatSetEntries :TAG:  8a  LEN:  01 DATE: 08
+DATA:8 items
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+##############################################GOOSE数据解析完成#######################################
+####################################GOOSE协议数据###################################
+APPID:           0001
+Length:          144
+gocbRef          :TAG:  80  LEN:  1a DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 24 67 63 62 30 31
+timeAllowedtoLive:TAG:  81  LEN:  02 DATE: 03 e8
+datSet           :TAG:  82  LEN:  18 DATE: 47 45 44 65 76 69 63 65 46 36 35 30 2f 4c 4c 4e 30 24 47 4f 4f 53 45 31
+goID             :TAG:  83  LEN:  0b DATE: 46 36 35 30 5f 47 4f 4f 53 45 31
+eventTimestamp   :TAG:  84  LEN:  08 DATE: 38 6e bc 41 ed 76 ec 0a
+StateNumber      :TAG:  85  LEN:  01 DATE: 01
+SequenceNumber   :TAG:  86  LEN:  01 DATE: 01
+test             :TAG:  87  LEN:  01 DATE: 00
+confRev          :TAG:  88  LEN:  01 DATE: 01
+ndsCom           :TAG:  89  LEN:  01 DATE: 00
+numDatSetEntries :TAG:  8a  LEN:  01 DATE: 08
+DATA:8 items
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+  DATA : boolean:
+    boolean:false
+  DATA : bit_string:
+    Padding: 3
+    bit_string: 00 00
+##############################################GOOSE数据解析完成#######################################
